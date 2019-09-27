@@ -1,0 +1,2 @@
+# libwebp
+libwebp build static
